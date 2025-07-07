@@ -41,14 +41,15 @@ Naast de standaardberekeningen leveren we **extra financiële inzichten over de 
 
 De repository heeft de volgende structuur:
 
+```
 project-root/
-├── data/                 # (added to .gitignore)
+├── data/                  # (added to .gitignore)
 │   └── PraeterBV_Case.xlsx
 ├── scripts/
 ├── outputs/
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ##  Implementatie
 
